@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Градиент от светлого к темному */
+    background: linear-gradient(to top, rgba(245, 71, 152, 0.85), #6a0dad); 
+    color: rgb(247, 8, 119);
+    padding: 10px 20px;
+}
+
+.navbar-header h1 {
+    margin: 0;
+}
+
+.navbar-header p {
+    margin: 0;
+}
+
+.contact-button {
+    background-color: cornflowerblue;
+    color: #6a0dad;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.contact-button:hover {
+    background-color: #f1f1f1;
+}
