@@ -1,7 +1,7 @@
 {
   "name": "resumeabydantsev",
   "version": "0.1.0",
-  "homepage": "https://alexander2202.github.io/resumeabydantsev",
+  "homepage": "https://alexander2202.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
