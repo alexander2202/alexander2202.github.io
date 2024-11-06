@@ -6,7 +6,7 @@ const Contact = ({ language }) => {
       <h2>{language === 'ru' ? 'Контакты' : 'Contacts'}</h2>
       <p>Telegram: <a href="https://t.me/a_bydantsev">@a_bydantsev</a></p>
       <p>Email: aleksandr_bydantsev@mail.ru</p>
-      <p>LinkedIn: <a href="www.linkedin.com/in/abydantsev">www.linkedin.com/in/abydantsev</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/abydantsev">abydantsev</a></p>
       
     </section>
   );

@@ -5,7 +5,7 @@ const Header = ({ language }) => {
     <header>
       <h1>{language === 'ru' ? 'Александр Быданцев' : 'Aleksandr Bydantsev'}</h1>
       <h2>{language === 'ru' ? 'Fullstack/Backend разработчик' : 'Fullstack/Backend Developer'}</h2>
-      <p>{language === 'ru' ? 'Специализация: C#, .Net, js, iQuery, React, Vue, MSSQL, Postgres' : 'Specialization: C#, .Net, js, iQuery, React, Vue, MSSQL, Postgres'}</p>
+      <p>{language === 'ru' ? 'Специализация: C#, .Net, js, jQuery, React, Vue, MSSQL, Postgres' : 'Specialization: C#, .Net, js, jQuery, React, Vue, MSSQL, Postgres'}</p>
     </header>
   );
 };
